@@ -8,7 +8,7 @@
 
     <groupId>com.github.sviperll</groupId>
     <artifactId>versioning-maven-plugin</artifactId>
-    <version>0.2-SNAPSHOT</version>
+    <version>0.2</version>
     <packaging>maven-plugin</packaging>
 
     <name>versioning-maven-plugin Maven Plugin</name>
@@ -147,7 +147,7 @@
         <connection>scm:git:git://github.com/sviperll/versioning-maven-plugin.git</connection>
         <developerConnection>scm:git:git@github.com:sviperll/versioning-maven-plugin.git</developerConnection>
         <url>https://github.com/sviperll/versioning-maven-plugin</url>
-        <tag>HEAD</tag>
+        <tag>versioning-maven-plugin-0.2</tag>
     </scm>
     <distributionManagement>
         <site>
